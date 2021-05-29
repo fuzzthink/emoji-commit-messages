@@ -1,6 +1,45 @@
 # Emoji commit messages
 
+Forked from [emoji-commit-messages](https://github.com/cooperka/emoji-commit-messages), see `Fork notes` in list for changes.
 A fun paradigm to encourage cleaner commits.
+Fork and modify to suit your needs. Don't forget to "star" and share the love.
+
+## The list
+
+| Text | Image | GFM shortcode* | Windows 10 picker name | When to use it | Fork notes |
+|:--:|:-----:|:--------- |:-------------- |:-------------- |:-------------- |
+| `🎉` | :tada: | `:tada:` | `party popper` | initial commit ||
+| `✨` | :sparkles: | `:sparkles:` | `sparkles` | when adding a new user-facing feature ||
+| `🎨` | :art: | `:art:` | `artist palette` | when improving UI ||
+| `💪` | :muscle: | `:muscle:` | `muscle` | when refactoring | was `:package:`|
+| `📦` | :package: | `:package:` | `package` | when changing an external package | New usage |
+| `🐎` | :racehorse: | `:racehorse:` | `horse` | when improving performance ||
+| `🔒` | :lock: | `:lock:` | `locked` | when improving security ||
+| `🔧` | :wrench: | `:wrench:` | `wrench` | when updating configs ||
+| `♿` | :wheelchair: | `:wheelchair:` | `wheelchair symbol` |  when improving accessibility ||
+| `🚀` | :rocket: | `:rocket:` | `rocket` | when improving dev tools ||
+| `📝` | :pencil: | `:pencil:` | `pencil` | when editing docs (README, comments) ||
+| `💎` | :gem: | `:gem:` | `gem stone` | when cutting a new release / version bump ||
+| `🐛` | :bug: | `:bug:` | `bug` | when fixing a bug ||
+| `💥` | :boom: | `:boom:` | `collision` | when fixing a crash ||
+| `🚱` | :non-potable_water: | `:non-potable_water:` | `non-potable water` | when fixing a memory leak ||
+| `🪒` | :razor: | `:razor:` | `razor` | when trimming or removing code or files | New! |
+| `🔥` | :fire: | `:fire:` | `fire` | when doing a hot fix that needs further attention | New usage |
+| `✅` | :white_check_mark: | `:white_check_mark:` | `check mark button` | when adding new tests ||
+| `💚` | :green_heart: | `:green_heart:` | `green heart` | when fixing the CI build ||
+| `👕` | :shirt: | `:shirt:` | `t-shirt` | when fixing linter warnings ||
+| `📡` | :satellite: | `:satellite:` | `satellite antenna` | when adding instrumentation or metrics ||
+| `🔊` | :loud_sound: | `:loud_sound:` | `speaker high volume` | when adding logging ||
+| `🔇` | :mute: | `:mute:` | `muted speaker` | when removing logging ||
+| `⬆` | :arrow_up: | `:arrow_up:` | `up arrow` | when upgrading dependencies ||
+| `⬇` | :arrow_down: | `:arrow_down:` | `down arrow` | when downgrading dependencies ||
+| `🎌` | :crossed_flags: | `:crossed_flags:` | `crossed flags` | when adding an A/B test or feature flag** ||
+| `⚡` | :zap: | `:zap:` | `high voltage` | when making a backwards-incompatible change** ||
+| `🚧` | :construction: | `:construction:` | `construction` | when the change is a work in progress (do not merge)** ||
+
+\* GFM shortcodes are recognized by any software that uses **G**itHub **F**lavored **M**arkdown. You can type them directly in your commit message!
+
+\** These emoji are often combined with another, primary emoji.
 
 ## Motivation
 
@@ -15,43 +54,6 @@ you could split that change into four commits that each accomplish
 one specific thing. Not only does this make things cleaner and clearer,
 but it also helps when using tools like `git bisect` to track down bugs,
 as well as when reverting individual changes.
-
-## The list
-
-Fork and modify to suit your needs. Don't forget to "star" and share the love.
-
-| Text | Image | GFM shortcode* | Windows 10 picker name | When to use it |
-|:--:|:-----:|:--------- |:-------------- |:-------------- |
-| `🎉` | :tada: | `:tada:` | `party popper` | initial commit |
-| `✨` | :sparkles: | `:sparkles:` | `sparkles` | when adding a new user-facing feature |
-| `🎨` | :art: | `:art:` | `artist palette` | when improving UI |
-| `📦` | :package: | `:package:` | `package` | when refactoring or improving code |
-| `🐎` | :racehorse: | `:racehorse:` | `horse` | when improving performance |
-| `🔒` | :lock: | `:lock:` | `locked` | when improving security |
-| `🔧` | :wrench: | `:wrench:` | `wrench` | when updating configs |
-| `♿` | :wheelchair: | `:wheelchair:` | `wheelchair symbol` |  when improving accessibility |
-| `🚀` | :rocket: | `:rocket:` | `rocket` | when improving dev tools |
-| `📝` | :pencil: | `:pencil:` | `pencil` | when writing docs (e.g. README, code comments) |
-| `💎` | :gem: | `:gem:` | `gem stone` | when cutting a new release / version bump |
-| `🐛` | :bug: | `:bug:` | `bug` | when fixing a bug |
-| `💥` | :boom: | `:boom:` | `collision` | when fixing a crash |
-| `🚱` | :non-potable_water: | `:non-potable_water:` | `non-potable water` | when fixing a memory leak |
-| `🔥` | :fire: | `:fire:` | `fire` | when removing code or files |
-| `✅` | :white_check_mark: | `:white_check_mark:` | `check mark button` | when adding new tests |
-| `💚` | :green_heart: | `:green_heart:` | `green heart` | when fixing the CI build |
-| `👕` | :shirt: | `:shirt:` | `t-shirt` | when fixing linter warnings |
-| `📡` | :satellite: | `:satellite:` | `satellite antenna` | when adding instrumentation or metrics |
-| `🔊` | :loud_sound: | `:loud_sound:` | `speaker high volume` | when adding logging |
-| `🔇` | :mute: | `:mute:` | `muted speaker` | when removing logging |
-| `⬆` | :arrow_up: | `:arrow_up:` | `up arrow` | when upgrading dependencies |
-| `⬇` | :arrow_down: | `:arrow_down:` | `down arrow` | when downgrading dependencies |
-| `🎌` | :crossed_flags: | `:crossed_flags:` | `crossed flags` | when adding an A/B test or feature flag** |
-| `⚡` | :zap: | `:zap:` | `high voltage` | when making a backwards-incompatible change** |
-| `🚧` | :construction: | `:construction:` | `construction` | when the change is a work in progress (do not merge)** |
-
-\* GFM shortcodes are recognized by any software that uses **G**itHub **F**lavored **M**arkdown. You can type them directly in your commit message!
-
-\** These emoji are often combined with another, primary emoji.
 
 ## How to decide which emoji to use
 
