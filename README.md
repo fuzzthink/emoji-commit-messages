@@ -8,7 +8,7 @@ Fork and modify to suit your needs. Don't forget to "star" and share the love.
 
 | Text | Image | GFM shortcode* | Windows 10 picker name | When to use it | Fork notes |
 |:--:|:-----:|:--------- |:-------------- |:-------------- |:-------------- |
-| `🎉` | :tada: | `:tada:` | `party popper` | initial commit ||
+| `🎉` | :tada: | `:tada:` | `party popper` | initial commit, big feature complete | modified |
 | `✨` | :sparkles: | `:sparkles:` | `sparkles` | when adding a new user-facing feature ||
 | `🎨` | :art: | `:art:` | `artist palette` | when improving UI ||
 | `💪` | :muscle: | `:muscle:` | `muscle` | when refactoring | was `:package:`|
