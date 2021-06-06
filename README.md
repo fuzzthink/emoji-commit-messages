@@ -23,7 +23,7 @@ Fork and modify to suit your needs. Don't forget to "star" and share the love.
 | `🐛` | :bug: | `:bug:` | `bug` | when fixing a bug ||
 | `💥` | :boom: | `:boom:` | `collision` | when fixing a crash ||
 | `🚱` | :non-potable_water: | `:non-potable_water:` | `non-potable water` | when fixing a memory leak ||
-| `🪒` | :razor: | `:razor:` | `razor` | when trimming or removing code or files | New! |
+| `🪒` | :broom: | `:broom:` | `broom` | when trimming or removing code or files | New! |
 | `🔥` | :fire: | `:fire:` | `fire` | when doing a hot fix that needs further attention | New usage |
 | `✅` | :white_check_mark: | `:white_check_mark:` | `check mark button` | when adding new tests ||
 | `💚` | :green_heart: | `:green_heart:` | `green heart` | when fixing the CI build ||
