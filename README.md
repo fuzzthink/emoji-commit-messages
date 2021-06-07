@@ -10,16 +10,16 @@ Fork and modify to suit your needs. Don't forget to "star" and share the love.
 |:--:|:-----:|:--------- |:-------------- |:-------------- |:-------------- |
 | `🎉` | :tada: | `:tada:` | `party popper` | initial commit, big feature complete | modified |
 | `✨` | :sparkles: | `:sparkles:` | `sparkles` | when adding a new user-facing feature ||
+| `💎` | :gem: | `:gem:` | `gem stone` | when adding a non user-facing feature | modified |
 | `🎨` | :art: | `:art:` | `artist palette` | when improving UI ||
 | `💪` | :muscle: | `:muscle:` | `muscle` | when refactoring | was `:package:`|
-| `📦` | :package: | `:package:` | `package` | when changing an external package | New usage |
+| `📦` | :package: | `:package:` | `package` | when changing an external package or new release| New usage |
 | `🐎` | :racehorse: | `:racehorse:` | `horse` | when improving performance ||
 | `🔒` | :lock: | `:lock:` | `locked` | when improving security ||
 | `🔧` | :wrench: | `:wrench:` | `wrench` | when updating configs ||
 | `♿` | :wheelchair: | `:wheelchair:` | `wheelchair symbol` |  when improving accessibility ||
 | `🚀` | :rocket: | `:rocket:` | `rocket` | when improving dev tools ||
 | `📝` | :pencil: | `:pencil:` | `pencil` | when editing docs (README, comments) ||
-| `💎` | :gem: | `:gem:` | `gem stone` | when cutting a new release / version bump ||
 | `🐛` | :bug: | `:bug:` | `bug` | when fixing a bug ||
 | `💥` | :boom: | `:boom:` | `collision` | when fixing a crash ||
 | `🚱` | :non-potable_water: | `:non-potable_water:` | `non-potable water` | when fixing a memory leak ||
