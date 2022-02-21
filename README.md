@@ -6,37 +6,37 @@ Fork and modify to suit your needs. Don't forget to "star" and share the love.
 
 ## The list
 
-| Text | Image | GFM shortcode* | Windows 10 picker name | When to use it | Fork notes |
+| Text | GFM shortcode* | Windows 10 picker name | When to use it | Fork notes |
 |:--:|:-----:|:--------- |:-------------- |:-------------- |:-------------- |
-| `🎉` | :tada: | `:tada:` | `party popper` | initial commit, big feature complete | modified |
-| `✨` | :sparkles: | `:sparkles:` | `sparkles` | when adding a new user-facing feature ||
-| `💎` | :gem: | `:gem:` | `gem stone` | when adding a non user-facing feature | modified |
-| `🎨` | :art: | `:art:` | `artist palette` | when improving UI ||
-| `💪` | :muscle: | `:muscle:` | `muscle` | when refactoring | was `:package:`|
-| `📦` | :package: | `:package:` | `package` | when changing an external package or new release| New usage |
-| `🐎` | :racehorse: | `:racehorse:` | `horse` | when improving performance ||
-| `🔒` | :lock: | `:lock:` | `locked` | when improving security ||
-| `🔧` | :wrench: | `:wrench:` | `wrench` | when updating configs ||
-| `♿` | :wheelchair: | `:wheelchair:` | `wheelchair symbol` |  when improving accessibility ||
-| `🚀` | :rocket: | `:rocket:` | `rocket` | when improving dev tools ||
-| `📝` | :pencil: | `:pencil:` | `pencil` | when editing docs (README, comments) ||
-| `🐛` | :bug: | `:bug:` | `bug` | when fixing a bug ||
-| `🐞` | :beetle: | `:beetle:` | `beetle` | when fixing a bug | A popular alt for `:bug:`, longer to type, but looks more like a bug |
-| `💥` | :boom: | `:boom:` | `collision` | when fixing a crash ||
-| `🚱` | :non-potable_water: | `:non-potable_water:` | `non-potable water` | when fixing a memory leak ||
-| `🧹` | :broom: | `:broom:` | `broom` | when trimming or removing code or files | New! |
-| `🔥` | :fire: | `:fire:` | `fire` | when doing a hot fix that needs further attention | New usage |
-| `✅` | :white_check_mark: | `:white_check_mark:` | `check mark button` | when adding new tests ||
-| `💚` | :green_heart: | `:green_heart:` | `green heart` | when fixing the CI build ||
-| `👕` | :shirt: | `:shirt:` | `t-shirt` | when fixing linter warnings ||
-| `📡` | :satellite: | `:satellite:` | `satellite antenna` | when adding instrumentation or metrics ||
-| `🔊` | :loud_sound: | `:loud_sound:` | `speaker high volume` | when adding logging ||
-| `🔇` | :mute: | `:mute:` | `muted speaker` | when removing logging ||
-| `⬆` | :arrow_up: | `:arrow_up:` | `up arrow` | when upgrading dependencies ||
-| `⬇` | :arrow_down: | `:arrow_down:` | `down arrow` | when downgrading dependencies ||
-| `🎌` | :crossed_flags: | `:crossed_flags:` | `crossed flags` | when adding an A/B test or feature flag** ||
-| `⚡` | :zap: | `:zap:` | `high voltage` | when making a backwards-incompatible change** ||
-| `🚧` | :construction: | `:construction:` | `construction` | when the change is a work in progress (do not merge)** ||
+| `🎉` | `:tada:` | `party popper` | initial commit, big feature complete | modified |
+| `✨` | `:sparkles:` | `sparkles` | when adding a new user-facing feature ||
+| `💎` | `:gem:` | `gem stone` | when adding a non user-facing feature | modified |
+| `🎨` | `:art:` | `artist palette` | when improving UI ||
+| `💪` | `:muscle:` | `muscle` | when refactoring | was `:package:`|
+| `📦` | `:package:` | `package` | when changing an external package or new release| New usage |
+| `🐎` | `:racehorse:` | `horse` | when improving performance ||
+| `🔒` | `:lock:` | `locked` | when improving security ||
+| `🔧` | `:wrench:` | `wrench` | when updating configs ||
+| `♿` | `:wheelchair:` | `wheelchair symbol` |  when improving accessibility ||
+| `🚀` | `:rocket:` | `rocket` | when improving dev tools ||
+| `📝` | `:pencil:` | `pencil` | when editing docs (README, comments) ||
+| `🐛` | `:bug:` | `bug` | when fixing a bug ||
+| `🐞` | `:beetle:` | `beetle` | when fixing a bug | A popular alt for `:bug:`, longer to type, but looks more like a bug |
+| `💥` | `:boom:` | `collision` | when fixing a crash ||
+| `🚱` | `:non-potable_water:` | `non-potable water` | when fixing a memory leak ||
+| `🧹` | `:broom:` | `broom` | when trimming or removing code or files | New! |
+| `🔥` | `:fire:` | `fire` | when doing a hot fix that needs further attention | New usage |
+| `✅` | `:white_check_mark:` | `check mark button` | when adding new tests ||
+| `💚` | `:green_heart:` | `green heart` | when fixing the CI build ||
+| `👕` | `:shirt:` | `t-shirt` | when fixing linter warnings ||
+| `📡` | `:satellite:` | `satellite antenna` | when adding instrumentation or metrics ||
+| `🔊` | `:loud_sound:` | `speaker high volume` | when adding logging ||
+| `🔇` | `:mute:` | `muted speaker` | when removing logging ||
+| `⬆` | `:arrow_up:` | `up arrow` | when upgrading dependencies ||
+| `⬇` | `:arrow_down:` | `down arrow` | when downgrading dependencies ||
+| `🎌` | `:crossed_flags:` | `crossed flags` | when adding an A/B test or feature flag** ||
+| `⚡` | `:zap:` | `high voltage` | when making a backwards-incompatible change** ||
+| `🚧` | `:construction:` | `construction` | when the change is a work in progress (do not merge)** ||
 
 \* GFM shortcodes are recognized by any software that uses **G**itHub **F**lavored **M**arkdown. You can type them directly in your commit message!
 
