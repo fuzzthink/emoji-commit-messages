@@ -21,6 +21,7 @@ Fork and modify to suit your needs. Don't forget to "star" and share the love.
 | `🚀` | :rocket: | `:rocket:` | `rocket` | when improving dev tools ||
 | `📝` | :pencil: | `:pencil:` | `pencil` | when editing docs (README, comments) ||
 | `🐛` | :bug: | `:bug:` | `bug` | when fixing a bug ||
+| `🐞` | :beetle: | `:beetle:` | `beetle` | when fixing a bug | A popular alt for `:bug:`, longer to type, but looks more like a bug |
 | `💥` | :boom: | `:boom:` | `collision` | when fixing a crash ||
 | `🚱` | :non-potable_water: | `:non-potable_water:` | `non-potable water` | when fixing a memory leak ||
 | `🧹` | :broom: | `:broom:` | `broom` | when trimming or removing code or files | New! |
