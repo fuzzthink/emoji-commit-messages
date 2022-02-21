@@ -7,7 +7,7 @@ Fork and modify to suit your needs. Don't forget to "star" and share the love.
 ## The list
 
 | Text | GFM shortcode* | Windows 10 picker name | When to use it | Fork notes |
-|:--:|:-----:|:--------- |:-------------- |:-------------- |:-------------- |
+|:--:|:--------- |:-------------- |:-------------- |:-------------- |
 | `🎉` | `:tada:` | `party popper` | initial commit, big feature complete | modified |
 | `✨` | `:sparkles:` | `sparkles` | when adding a new user-facing feature ||
 | `💎` | `:gem:` | `gem stone` | when adding a non user-facing feature | modified |
